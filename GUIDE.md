@@ -24,7 +24,7 @@ New fancy trick with ES6! Not every browsers supports it yet. Although I'm quite
 
 ### Typescript & PropTypes
 
-
+Optional chaning doesn't work yet in Typescript. So instead of Typescript I used propTypes. Eventually it also does (however less strict) a type checking. Hopefully Typescript will have support for optional chaining quite soon.
 
 ### Jest
 I fully agree that testing is really important, both unit test and itegration tests are something that would be a requirement in a company like Wehkamp. But because of the short time allotted to this assessment I've chosen to skip it. If you would like to know more about my testing skills we can do this in a conversation. 
