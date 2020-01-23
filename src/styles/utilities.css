@@ -1,0 +1,9 @@
+.bg-img {
+	&::before {
+		background-image: var(--bg-img, none);
+	}
+
+	&::after {
+		background: linear-gradient(180deg, #1a202c00 0%, #1a202cff 90%);
+	}
+}

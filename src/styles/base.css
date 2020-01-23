@@ -1,0 +1,20 @@
+html,
+body {
+	min-height: 100%;
+}
+
+a {
+	@apply font-medium text-primary-500 underline;
+
+	&:hover {
+		@apply text-primary-600;
+	}
+}
+
+h1 {
+	@apply text-4xl font-medium leading-tight;
+}
+
+h2 {
+	@apply text-xl font-medium leading-tight;
+}
