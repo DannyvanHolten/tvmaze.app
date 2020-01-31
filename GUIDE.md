@@ -3,7 +3,7 @@
 In this guide I will explain why I made choices for some techniques as well as why I omitted some techniques that I think could be useful for the app.
 
 ## My thought on the assesment
-Oeehh, I kinda like this. I am delivering this to you in a state where I think can be still very much improved (as also explained here below). It does make me really enthusiastic about all the cool possibilities there are when building for RTL. I think Media & Video are really interesting parts of the webworld. I'm also very interested in seeing how RTL handles their services & the usages of a PWA.
+Oeehh, I kinda like this. I am delivering this to you in a state where I think can be still very much improved (as also explained here below). It does make me really enthusiastic about all the cool possibilities there are when building with the TV Maze API. I think Media & Video are really interesting parts of the webworld. I'm also very interested in seeing how RTL handles their services & the usages of a PWA.
 
 ## Used techniques
 
